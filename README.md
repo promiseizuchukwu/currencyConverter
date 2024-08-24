@@ -1,2 +1,2 @@
-# Currency-Converter
-A python script to convert currencies.
+# currencyConverter
+A python-based simple script to convert currencies.
